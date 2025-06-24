@@ -1,2 +1,2 @@
 # test
-f1
+main
